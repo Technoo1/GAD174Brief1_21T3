@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 577ba4831c8b3d048b39c4d4208d601b
+guid: 8c693069b3ab4f54aad1f3e7cdf36451
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Special Elite
+  - 'Motion Picture Personal Use '
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
