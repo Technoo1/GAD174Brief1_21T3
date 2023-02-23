@@ -21,13 +21,13 @@ public class ButtonScript : MonoBehaviour
         ExecuteTrigger("TrIdle");
     }
 
-    public void PlayWalkRight()
+    public void PlayWalk()
     {
-        ExecuteTrigger("TrWalkRight");
+        ExecuteTrigger("TrWalk");
     }
 
-    public void PlayWalkLeft()
+    public void PlayJump()
     {
-        ExecuteTrigger("TrWalkLeft");
+        ExecuteTrigger("TrJump");
     }
 }
